@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:translateX="10"
+        android:translateY="6">
+        <!-- Magnifying Glass Handle -->
+        <path
+            android:fillColor="#222B38"
+            android:pathData="M66.5,66.5 L80,80 L74,86 L60.5,72.5 Z" />
+
+        <!-- Magnifying Glass Ring -->
+        <path
+            android:strokeColor="#222B38"
+            android:strokeWidth="5"
+            android:pathData="M44,18 A26,26 0 1,0 44,70 A26,26 0 1,0 44,18 Z" />
+
+        <!-- Paw Print -->
+        <!-- Main Pad -->
+        <path
+            android:fillColor="#F98165"
+            android:pathData="M44,45 C38,45 34,48 34,53 C34,58 38,62 44,62 C50,62 54,58 54,53 C54,48 50,45 44,45 Z" />
+
+        <!-- Heart inside main pad -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M44,57 L43,56 C41,54.5 40,53 40,51.5 C40,50 41,49 42.5,49 C43.2,49 43.8,49.3 44,49.8 C44.2,49.3 44.8,49 45.5,49 C47,49 48,50 48,51.5 C48,53 47,54.5 45,56 L44,57 Z" />
+
+        <!-- Toe Pads -->
+        <path
+            android:fillColor="#F98165"
+            android:pathData="M33,38 C31,38 30,36 30,34 C30,32 31,31 33,31 C35,31 36,32 36,34 C36,36 35,38 33,38 Z" />
+        <path
+            android:fillColor="#F98165"
+            android:pathData="M40.5,33 C38.5,33 37.5,31 37.5,29 C37.5,27 38.5,26 40.5,26 C42.5,26 43.5,27 43.5,29 C43.5,31 42.5,33 40.5,33 Z" />
+        <path
+            android:fillColor="#F98165"
+            android:pathData="M48.5,33 C46.5,33 45.5,31 45.5,29 C45.5,27 46.5,26 48.5,26 C50.5,26 51.5,27 51.5,29 C51.5,31 50.5,33 48.5,33 Z" />
+        <path
+            android:fillColor="#F98165"
+            android:pathData="M56,38 C54,38 53,36 53,34 C53,32 54,31 56,31 C58,31 59,32 59,34 C59,36 58,38 56,38 Z" />
+    </group>
+</vector>

@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Pawspect" parent="Theme.MaterialComponents.Light" />
+</resources>
